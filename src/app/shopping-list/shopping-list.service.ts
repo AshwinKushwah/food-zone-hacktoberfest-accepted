@@ -1,5 +1,4 @@
 import { Ingredient } from '../shared/ingredient.model' ;
-import { EventEmitter, ViewChild } from '@angular/core';
 import { Subject } from 'rxjs';
 
 
